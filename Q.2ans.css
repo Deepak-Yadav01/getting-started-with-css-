@@ -1,0 +1,28 @@
+/* STYLIG OF EACH PARAGRAPHS */
+.lorem5{
+    color: aqua;
+    text-shadow: 5dvb;
+}
+.lorem30{
+    background-color: #fff;
+    font-style: oblique;
+    background-position-x:right;
+}
+.lorem12{
+    font-weight: bold;
+    border: 1;
+}
+.lorem15{
+    border-left: 3px solid #007acc;
+    padding-left: 10px;
+    color: chartreuse;
+}
+.lorem10{
+    font-style: italic;
+    color: #255;
+padding-left: 5%;
+}
+.lorem20{
+  background-color: aquamarine;
+  font-size: x-large;
+}
